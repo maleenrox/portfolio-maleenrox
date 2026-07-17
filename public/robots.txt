@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Prevent direct indexing of raw payloads and documents
+Disallow: /*.pdf$
+Disallow: /*.exe$
+Disallow: /*.deb$
+
+Sitemap: https://www.maleen.dev/sitemap.xml
