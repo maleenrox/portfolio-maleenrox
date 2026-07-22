@@ -39,7 +39,7 @@ The intelligence database and analytical repository. The Grid serves as the cent
 
 This environment is constructed using a modern, high-performance web framework optimized for dynamic rendering, modular component isolation, and terminal-grade aesthetics.
 
-*   **Frontend Framework:** React.js — *Providing the core component-based architecture and state management.
+*   **Frontend Framework:** React.js — *Providing the core component-based architecture and state management.*
 *   **Styling Engine:** Tailwind CSS — *Utilizing a custom `cyberpunk` configuration. Features extensive use of custom variables (`cyber-cyan`, `cyber-red`, `cyber-dark`, `text-glow-cyan`) and highly specific utility classes (e.g., `mix-blend-luminosity`, `backdrop-blur-sm`) to enforce the visual identity.*
 *   **Motion & Physics:** Framer Motion — *Handling complex component mounting, exit transitions (`AnimatePresence`), and sequential load animations (`motion.div` with staggered delays) to simulate boot-up sequences.*
 *   **Routing Protocols:** React Router DOM — *Managing seamless, client-side navigation (`<Link>`) between secure system nodes (`/armory`, `/grid`) without triggering full page reloads.*
@@ -51,5 +51,5 @@ This environment is constructed using a modern, high-performance web framework o
 
 ---
 <p align="center" className="text-cyber-cyan font-mono text-xs tracking-widest uppercase">
-  SYS.VER: v2.0 // SECURE TLS CONNECTION // EOF
+  SYS.VER: v1.0 // SECURE TLS CONNECTION // EOF
 </p>
