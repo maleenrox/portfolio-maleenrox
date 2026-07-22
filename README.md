@@ -1,9 +1,9 @@
 # 🌐 MALEEN.DEV // PORTFOLIO_NODE
 
-> **STATUS:** ONLINE
->  **NODE:** COLOMBO_NODE // ACTIVE
->  **ACCESS LEVEL:** PUBLIC
->  **LIVE_UPLINK:** [https://maleen.dev/](https://maleen.dev/)
+> * **STATUS:** ONLINE
+> * **NODE:** COLOMBO_NODE // ACTIVE 
+> * **ACCESS LEVEL:** PUBLIC
+> * **LIVE_UPLINK:** [https://maleen.dev/](https://maleen.dev/)
 
 Welcome to the defensive infrastructure and threat intelligence hub. This portfolio is an interactive, terminal-inspired environment engineered to showcase operational capabilities in network defense, tool development, and cyber security research. 
 
